@@ -1,0 +1,12 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:creamstew/zenn.git",
+  "author": "creamstew <umetsu@pin-japan.com>",
+  "license": "MIT",
+  "dependencies": {
+    "textlint-rule-preset-ja-spacing": "^2.0.2",
+    "textlint-rule-preset-ja-technical-writing": "^4.0.1"
+  }
+}
