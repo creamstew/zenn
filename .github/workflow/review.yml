@@ -1,7 +1,7 @@
 name: review
   pull_request:
     branches:
-      - master
+      - main
     types: [closed]
 jobs:
   textlint:
