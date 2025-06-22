@@ -9,7 +9,7 @@
     "zenn-cli": "^0.1.77"
   },
   "devDependencies": {
-    "textlint": "^14.0.2",
+    "textlint": "^15.0.0",
     "textlint-rule-preset-ja-spacing": "^2.3.0",
     "textlint-rule-spellcheck-tech-word": "^5.0.0"
   }
